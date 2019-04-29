@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juriswikibr/jurisconsulto/issues"
   },
-  "homepage": "https://github.com/juriswikibr/jurisconsulto#readme"
+  "homepage": "https://github.com/juriswikibr/jurisconsulto#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
